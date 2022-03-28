@@ -6,6 +6,11 @@ Datasets for object recognition where the images portray the object(s).
 In our use case, this scene generate pictures of paintings to classify the pictorial style.
 Datasets where the images depict scenarios and the network has to classify the image in a category.
 
+The software is described in the following paper:
+Perri, D.; Simonetti, M.; Gervasi, O. Synthetic Data Generation to Speed-Up the Object Recognition Pipeline. Electronics 2022, 11, 2. https://doi.org/10.3390/electronics11010002
+
+
+
 
 # Step 1 - You must download and install Unity, the project is developed with Unity 2019.4.9f1
 # Add the project inside the Unity Hub and start the project
